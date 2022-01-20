@@ -1,0 +1,12 @@
+[
+   {
+      "repository":"device_google_coral",
+      "target_path":"device/google/coral"
+   },
+   {
+      "repository":"vendor_google_flame",
+      "target_path":"vendor/google/flame",
+      "branch":"twelve",
+      "remote":"pixel-devices-blobs"
+   }
+]
