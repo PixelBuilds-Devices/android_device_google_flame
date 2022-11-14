@@ -6,7 +6,7 @@
    {
       "repository":"vendor_google_flame",
       "target_path":"vendor/google/flame",
-      "branch":"twelve",
+      "branch":"thirteen",
       "remote":"pixel-devices-blobs"
    }
 ]
