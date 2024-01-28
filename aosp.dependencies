@@ -1,12 +1,12 @@
 [
    {
-      "repository":"device_google_coral",
+      "repository":"android_device_google_coral",
       "target_path":"device/google/coral"
    },
    {
-      "repository":"vendor_google_flame",
+      "repository":"android_vendor_google_flame",
       "target_path":"vendor/google/flame",
-      "branch":"thirteen",
-      "remote":"pixel-devices-blobs"
+      "branch":"unity",
+      "remote":"pixelbuilds-blobs-gitlab"
    }
 ]
