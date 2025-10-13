@@ -6,7 +6,7 @@
    {
       "repository":"android_vendor_google_flame",
       "target_path":"vendor/google/flame",
-      "branch":"infinity",
+      "branch":"infinity-oss",
       "remote":"pixelbuilds-blobs-gitlab"
    }
 ]
